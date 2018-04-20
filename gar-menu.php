@@ -4,7 +4,7 @@
     <meta name="author" content="Senne van Drunen"
     <meta charset="UTF-8">
     <title>gar-menu.php</title>
-    <link href="garage.css" type="text/css" rel="stylesheet">
+    <link href="garage.scss" type="text/css" rel="stylesheet">
 </head>
 <body>
 <h1>Garage menu</h1>

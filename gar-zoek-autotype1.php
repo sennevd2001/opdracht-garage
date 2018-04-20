@@ -4,6 +4,7 @@
     <meta name="author" content="Senne van Drunen"
     <meta charset="UTF-8">
     <title>gar-zoek-auto-type1.php</title>
+    <link href="garage.scss" type="text/css" rel="stylesheet">
 </head>
 <body>
 <h2>laat auto en eigenaar zien 1</h2>

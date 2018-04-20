@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
     <title>gar-create-klant1.php</title>
+    <link href="garage.scss" type="text/css" rel="stylesheet">
 </head>
 <body>
 <h1>garage create klant 1</h1>

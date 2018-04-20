@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
     <title>gar-create-auto1.php</title>
+
 </head>
 <body>
 <h1>garage create auto 1</h1>

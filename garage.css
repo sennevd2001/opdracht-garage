@@ -1,12 +1,17 @@
 html {
-    margin: 0 auto;
-}
+  margin: 0 auto; }
 
 body {
-    margin: 0 auto;
-}
+  margin: 0 auto; }
 
 h1 {
-    font-family: sans-serif;
-    text-align: center;
-}
+  text-align: center;
+  font-family: sans-serif; }
+
+h2 {
+  font-family: sans-serif; }
+
+li {
+  list-style-type: none; }
+
+/*# sourceMappingURL=garage.css.map */

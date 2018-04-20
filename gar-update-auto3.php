@@ -4,6 +4,7 @@
     <meta name="author" content="Senne van Drunen"
     <meta charset="UTF-8">
     <title>gar-update-auto3.php</title>
+    <link href="garage.scss" type="text/css" rel="stylesheet">
 </head>
 <body>
 <h1>garage update auto 3</h1>

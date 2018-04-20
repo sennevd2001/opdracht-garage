@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,IAAK;EACH,MAAM,EAAE,MAAM;;AAGhB,IAAK;EACH,MAAM,EAAE,MAAM;;AAGhB,EAAG;EACD,UAAU,EAAE,MAAM;EAClB,WAAW,EAAE,UAAU;;AAGzB,EAAG;EACD,WAAW,EAAE,UAAU;;AAIzB,EAAG;EACD,eAAe,EAAE,IAAI",
+"sources": ["garage.scss"],
+"names": [],
+"file": "garage.css"
+}
